@@ -1,0 +1,2 @@
+# Bonjour à la personne qui me corrigera, je suis conscient que mon code ne respecte pas toute les consignes
+# mais j'ai eu du mal avec la gestion de fichier Json et je n'ai pas réussis à trouver de solutions pour le reste.
